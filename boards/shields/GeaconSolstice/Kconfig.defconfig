@@ -2,9 +2,6 @@ if SHIELD_GEACONHADOP
     config ZMK_KEYBOARD_NAME
         default "GEACONHADOP"
 
-    config ZMK_SPLIT_ROLE_CENTRAL
-        default y
-
     config ZMK_SPLIT
         default y
 
