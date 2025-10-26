@@ -1,0 +1,10 @@
+---
+include:
+  - board: seeeduino_xiao_ble
+    shield: GeaconHadop rgbled_adapter dongle_display
+    snippet: zmk-usb-logging studio-rpc-usb-uart
+    artifact-name: GeaconHadop
+
+  - board: seeeduino_xiao_ble
+    shield: settings_reset
+    
