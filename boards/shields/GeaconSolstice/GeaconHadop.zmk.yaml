@@ -1,6 +1,0 @@
-file_format: "1"
-id: GeaconHadop
-name: GeaconHadop
-type: shield
-requires: 
-  - i2c_oled

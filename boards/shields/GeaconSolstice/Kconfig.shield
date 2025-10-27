@@ -1,2 +1,0 @@
-config SHIELD_GEACONHADOP_L
-    def_bool $(shields_list_contains,GeaconHadop_L)

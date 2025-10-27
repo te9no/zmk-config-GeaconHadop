@@ -12,6 +12,8 @@ manifest:
       url-base: https://github.com/zettaface
     - name: kot149
       url-base: https://github.com/kot149
+    - name: petejohanson
+      url-base: https://github.com/petejohanson
   projects:
     - name: zmk
       # remote: zmkfirmware
@@ -33,6 +35,9 @@ manifest:
     - name: zmk-input-processor-keybind
       remote: zettaface
       # remote: te9no
+      revision: main
+    - name: cirque-input-module
+      remote: petejohanson
       revision: main
     - name: zmk-layout-shift
       remote: kot149
